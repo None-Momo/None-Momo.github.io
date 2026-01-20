@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://none-momo.github.io/sitemap.xml
+Sitemap: https://None-Momo.github.io/sitemap.xml
