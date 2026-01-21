@@ -398,16 +398,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-2025-6-被hci-项目录取-前往苏州-english",
+          title: '2025.6 被HCI+项目录取 前往苏州（English）',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-2025-11-接到uw-madison转学录取-english",
+          title: '2025.11 接到UW-Madison转学录取（English）',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-2026-1-start-exchange-life-at-uc-berkeley",
+          title: '2026.1 Start Exchange Life at UC Berkeley',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
