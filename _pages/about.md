@@ -34,8 +34,8 @@ latest_posts:
   }
 </style>
 
-I'm Xujia Liu, currently a visiting student in Computer Science at UC Berkeley and will be transferring to the University of Wisconsin-Madison in Fall 2026 to pursue my B.S. in Computer Science. My research interests lie in Human-Computer Interaction (HCI) and Virtual Reality (VR), with a particular focus on emotion and affective computing in VR experiences, VR for education, and accessible and inclusive design. 
+I'm Xujia Liu, currently a visiting student in Computer Science at UC Berkeley. I have been admitted to the University of Wisconsin-Madison and will be transferring there in Fall 2026/ Spring 2027 to pursue my B.S. in Computer Science. Previously, I studied at the University of Nottingham China with a Full Scholarship.
 
-During the summer of 2025, I joined the HER Lab at Xi'an Jiaotong-Liverpool University through the HCI+ program, supervised by Dr. Yue Li, where I explored emotion detection in VR co-experiences using physiological signals. 
+During the summer of 2025, I joined the HCI+ Lab through the HCI+ program (selected from ~100 out of 550 applicants), supervised by Dr. Yue Li, where I explored emotion detection in VR co-experiences using physiological signals. 
 
-I firmly believe that technology should always serve people, and my ultimate goal is to create an accessible world where everyone, regardless of their abilities, can equally benefit from technological innovations. If you'd like to learn more about my thoughts and research journey, feel free to take 2 minutes to read my [blog](/blog/).
+I firmly believe that technology should always serve people, and my ultimate goal is to create an accessible world where everyone, regardless of their abilities, can equally benefit from technological innovations. If you'd like to get to know me better, feel free to take 2 minutes to read my [blog](/blog/).
