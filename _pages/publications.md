@@ -7,6 +7,13 @@ nav: true
 nav_order: 2
 ---
 
+<style>
+  :root {
+    --global-theme-color: #0066cc;
+    --global-hover-color: #0066cc;
+  }
+</style>
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->

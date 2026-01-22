@@ -9,6 +9,13 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+<style>
+  :root {
+    --global-theme-color: #dc3545;
+    --global-hover-color: #dc3545;
+  }
+</style>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
