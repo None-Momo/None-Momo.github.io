@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Masaki Kuribayashi's Interview
+title: Masaki Kuribayashi's Interview (Waseda University)
 date: 2025-08-07 10:00:00
 description: An interview with Masaki Kuribayashi conducted by Synteraction Lab
 tags: interview
