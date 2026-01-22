@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-masaki-kuribayashi-39-s-interview",
+        
+          title: 'Masaki Kuribayashi&#39;s Interview <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "An interview with Masaki Kuribayashi conducted by Synteraction Lab",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.notion.so/Masaki-Kuribayashi-Interview-2482211b1d408083aefac64b4bd4bcc7?source=copy_link", "_blank");
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
