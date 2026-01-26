@@ -29,9 +29,9 @@ latest_posts:
   }
 </style>
 
-I'm Xujia Liu, currently a visiting student at **UC Berkeley**.
-I have been admitted to the **University of Wisconsin-Madison** and will be transferring there in Fall 2026/Spring 2027 to pursue my B.S. in Computer Science.
-Previously, I studied at the **University of Nottingham China** with Full Scholarship.
+I'm Xujia Liu, currently a visiting student at UC Berkeley.
+I have been admitted to the University of Wisconsin-Madison and will be transferring there in Fall 2026/Spring 2027 to pursue my B.S. in Computer Science.
+Previously, I studied at the University of Nottingham China with Full Scholarship.
 <br><br>
 My research interests lie in HCI, Accessibility, VR, AI.
 During the summer of 2025, I joined the HCI+ Lab through the HCI+ program (selected from ~100 out of 550 applicants), supervised by Dr. [Yue Li](https://imyueli.github.io/about.html), where I explored emotion detection in VR co-experiences using physiological signals.
@@ -40,6 +40,6 @@ I firmly believe that technology should always serve people.
 And my ultimate goal is to create an accessible world where everyone,
 regardless of their abilities, can equally benefit from technological innovations.
 <br>
-Even for individuals who are currently able-bodied, there is no guarantee that they will never encounter challenges similar to those faced by people who are Blind or Low Vision, Deaf or Hard of Hearing, or with Learning Disabilities. Recognizing this shared vulnerability is what makes accessibility research deeply meaningful.
+Even for individuals who are currently able-bodied, **there is no guarantee that they will never encounter challenges** similar to those faced by people who are Blind or Low Vision, Deaf or Hard of Hearing, or with Learning Disabilities. Recognizing this shared vulnerability is what makes accessibility research deeply meaningful.
 <br>
-If you'd like to get to know me better, feel free to take 2 minutes to read my [blog](/blog/).
+If you'd like to get to know me better, feel free to take 3 minutes to read my [blog](/blog/).
