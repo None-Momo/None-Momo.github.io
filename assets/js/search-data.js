@@ -74,12 +74,7 @@ ninja.data = [{
             window.location.href = "/blog/2025/my-hci-summer-camp-application/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-admitted-to-hci-program-heading-to-suzhou",
+      },{id: "news-admitted-to-hci-program-heading-to-suzhou",
           title: 'Admitted to HCI+ Program, heading to Suzhou',
           description: "",
           section: "News",},{id: "news-attended-chiang-mai-hci-research-camp-organized-by-prof-shengdong-zhao",
@@ -91,17 +86,7 @@ ninja.data = [{
           section: "News",},{id: "news-starting-exchange-life-at-uc-berkeley",
           title: 'Starting Exchange Life at UC Berkeley',
           description: "",
-          section: "News",},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
-            },},{
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
