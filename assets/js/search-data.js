@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-seeking-accessibility-why-i-came-to-study-in-the-us",
+        },{id: "post-2026-summer-research-application-notre-dame",
+        
+          title: "2026 Summer Research Application@Notre Dame",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/notre-dame-isure-application/";
+          
+        },
+      },{id: "post-seeking-accessibility-why-i-came-to-study-in-the-us",
         
           title: 'Seeking Accessibility: Why I Came to Study in the US <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
