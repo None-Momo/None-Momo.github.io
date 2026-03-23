@@ -108,6 +108,13 @@ ninja.data = [{
           window.open("mailto:%6C%69%75%78%75%6A%69%61%32@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/liuxujia85", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
