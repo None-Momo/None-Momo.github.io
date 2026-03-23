@@ -86,6 +86,9 @@ ninja.data = [{
           section: "News",},{id: "news-starting-exchange-life-at-uc-berkeley",
           title: 'Starting Exchange Life at UC Berkeley',
           description: "",
+          section: "News",},{id: "news-accepted-summer-research-offer-from-notre-dame-looking-forward-to-being-mentored-by-toby-li",
+          title: 'Accepted Summer Research offer from Notre Dame; looking forward to being mentored by...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
