@@ -1,6 +1,26 @@
 <!-- Metadata, OpenGraph and Schema.org -->
 {% include metadata.liquid %}
 
+{% if page.url == '/' %}
+  <!-- Structured data to help Google surface your homepage when searching "Xujia Liu" / "Xujia Liu HCI" -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Xujia Liu",
+    "url": "https://none-momo.github.io/",
+    "jobTitle": "HCI & Accessibility Researcher",
+    "sameAs": [
+      "https://www.linkedin.com/in/xujia-liu-282575339",
+      "https://www.xiaohongshu.com/user/profile/66ee6a82000000001e0060f4",
+      "https://github.com/None-Momo/My-Wechat/blob/main/Wechat.jpg",
+      "https://www.instagram.com/liuxujia85/",
+      "mailto:liuxujia2@gmail.com"
+    ]
+  }
+  </script>
+{% endif %}
+
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
 <link
