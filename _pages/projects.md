@@ -94,6 +94,13 @@ horizontal: false
 </style>
 
 <div class="projects-grid">
+  <a class="project-card" href="https://none-momo.github.io/CS-184-NDR/">
+    <h2>UC Berkeley CS184/284 Final Project</h2>
+    <p>Final project for UC Berkeley CS184/284.</p>
+    <div class="project-meta">Computer Graphics · Final Project</div>
+    <span class="project-arrow">→</span>
+  </a>
+
   <a class="project-card" href="https://none-momo.github.io/anthropic-notes/">
     <h2>AI using Notes</h2>
     <p>Study how to use Claude together!</p>
@@ -108,10 +115,4 @@ horizontal: false
     <span class="project-arrow">→</span>
   </a>
 
-  <a class="project-card" href="https://none-momo.github.io/CS-184-NDR/">
-    <h2>UC Berkeley CS184/284 Final Project</h2>
-    <p>Final project for UC Berkeley CS184/284.</p>
-    <div class="project-meta">Computer Graphics · Final Project</div>
-    <span class="project-arrow">→</span>
-  </a>
 </div>
