@@ -107,4 +107,11 @@ horizontal: false
     <div class="project-meta">Open resources · Community friendly</div>
     <span class="project-arrow">→</span>
   </a>
+
+  <a class="project-card" href="https://none-momo.github.io/CS-184-NDR/">
+    <h2>UC Berkeley CS184/284 Final Project</h2>
+    <p>Final project for UC Berkeley CS184/284.</p>
+    <div class="project-meta">Computer Graphics · Final Project</div>
+    <span class="project-arrow">→</span>
+  </a>
 </div>
