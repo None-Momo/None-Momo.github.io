@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-2026-summer-research-application-notre-dame",
+        },{id: "post-why-we-study-fundamental-math-question-in-ai-era",
+        
+          title: "Why We Study Fundamental Math Question in AI Era",
+        
+        description: "A conversation about learning fundamentals in the age of fast-moving AI",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/why-we-study-fundamental-math-question-in-ai-era/";
+          
+        },
+      },{id: "post-2026-summer-research-application-notre-dame",
         
           title: "2026 Summer Research Application@Notre Dame",
         
