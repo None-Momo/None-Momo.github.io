@@ -64,7 +64,9 @@ pagination:
   {% endif %}
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
-{% if featured_posts.size > 0 %}
+{% assign is_first_page = true %}
+{% if page.pagination.enabled and paginator.page != 1 %}{% assign is_first_page = false %}{% endif %}
+{% if featured_posts.size > 0 and is_first_page %}
 
   <ul class="post-list">
     {% for post in featured_posts %}
@@ -131,6 +133,7 @@ pagination:
     {% endif %}
 
     {% for post in postlist %}
+    {% if post.featured == true %}{% continue %}{% endif %}
 
     {% if post.external_source == blank %}
       {% assign read_time = post.content | number_of_words | divided_by: 180 | plus: 1 %}
