@@ -108,6 +108,9 @@ ninja.data = [{
           section: "News",},{id: "news-accepted-summer-research-offer-from-notre-dame-looking-forward-to-being-mentored-by-toby-li",
           title: 'Accepted Summer Research offer from Notre Dame; looking forward to being mentored by...',
           description: "",
+          section: "News",},{id: "news-accepted-transfer-admission-to-uw-seattle-to-pursue-my-hci-aspirations",
+          title: 'Accepted transfer admission to UW–Seattle to pursue my HCI aspirations!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
