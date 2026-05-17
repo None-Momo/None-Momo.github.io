@@ -2,6 +2,7 @@
 layout: post
 title: Why Accessibility? A Personal Reflection (Chinese Version)
 date: 2025-09-24 10:00:00
+featured: true
 description: Reflections from a Transfer Essay on the importance of accessibility
 tags: accessibility
 categories: sample-posts
