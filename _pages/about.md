@@ -29,8 +29,7 @@ latest_posts:
   }
 </style>
 
-I'm Xujia Liu, currently a visiting student at UC Berkeley.
-Previously, I studied at the University of Nottingham China with Full Scholarship.
+I'm Xujia Liu, currently an undergraduate researcher at University of Washington. Previously, I visited UC Berkeley and studied at the University of Nottingham China with Full Scholarship.
 <br><br>
 My research interests lie in HCI, Accessibility, VR, LLM.
 In summer 2026, I will research Interactive Systems for Human-Aligned AI Agents at the University of Notre Dame under [Toby Li](https://toby.li/)'s guidance.
