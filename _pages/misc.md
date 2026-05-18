@@ -20,7 +20,7 @@ nav_order: 4
     <h2>A curated corner of things that moved me</h2>
   </div>
 
-  <p style="margin: 2rem 0 2.5rem; font-size: 1.25rem; font-weight: 700; color: #000; text-align: center;">
+  <p style="margin: 2rem auto 2.5rem; max-width: 600px; font-size: 1.25rem; font-weight: 700; color: #000; text-align: center;">
     Words carry weight. Even though English is not my mother tongue, these writings still move me to tears.
   </p>
 
