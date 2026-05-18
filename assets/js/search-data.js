@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-misc",
+          title: "misc",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/misc/";
+          },
         },{id: "post-why-we-study-fundamental-math-question-in-ai-era",
         
           title: "Why We Study Fundamental Math Question in AI Era",
