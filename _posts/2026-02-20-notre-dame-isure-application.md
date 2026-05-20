@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2026 Summer Research Application@Notre Dame"
-date: 2026-02-01
+date: 2026-02-20
 ---
 
 <iframe src="{{ '/assets/pdfs/notre-dame-isure.pdf' | relative_url }}"
