@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/misc/";
           },
-        },{id: "post-why-we-study-fundamental-math-question-in-ai-era",
+        },{id: "post-some-random-thoughts-at-cal-east-asian-library",
+        
+          title: 'Some Random Thoughts at Cal East Asian Library <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "A candid reflection on transfer applications, summer research, and the quiet gap between achievement and joy",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://www.notion.so/Written-at-the-UC-Berkeley-East-Asian-Library-6ea2211b1d4082caa6fc0177f23ff547", "_blank");
+          
+        },
+      },{id: "post-why-we-study-fundamental-math-question-in-ai-era",
         
           title: "Why We Study Fundamental Math Question in AI Era",
         
