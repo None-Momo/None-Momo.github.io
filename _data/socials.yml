@@ -52,12 +52,12 @@ linkedin_username: xujia-liu-282575339 # your LinkedIn user name
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social_xiaohongshu: # Xiaohongshu (Little Red Book)
-  logo: https://none-momo.github.io/assets/img/Rednote.png # can be png, svg, jpg
-  title: Xiaohongshu
-  url: https://www.xiaohongshu.com/user/profile/66ee6a82000000001e0060f4
-custom_social_wechat: # WeChat
-  logo: https://none-momo.github.io/assets/img/Wechat.png # can be png, svg, jpg
-  title: WeChat
-  url: https://github.com/None-Momo/My-Wechat/blob/main/Wechat.jpg
+# custom_social_xiaohongshu: # Xiaohongshu (Little Red Book) - temporarily hidden
+#   logo: https://none-momo.github.io/assets/img/Rednote.png
+#   title: Xiaohongshu
+#   url: https://www.xiaohongshu.com/user/profile/66ee6a82000000001e0060f4
+# custom_social_wechat: # WeChat - temporarily hidden
+#   logo: https://none-momo.github.io/assets/img/Wechat.png
+#   title: WeChat
+#   url: https://github.com/None-Momo/My-Wechat/blob/main/Wechat.jpg
 instagram_id: liuxujia85 # your instagram id
