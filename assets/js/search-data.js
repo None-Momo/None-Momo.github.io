@@ -137,20 +137,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/xujia-liu-282575339", "_blank");
         },
       },{
-        id: 'social-custom_social_xiaohongshu',
-        title: 'Custom_social_xiaohongshu',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.xiaohongshu.com/user/profile/66ee6a82000000001e0060f4", "_blank");
-        },
-      },{
-        id: 'social-custom_social_wechat',
-        title: 'Custom_social_wechat',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/None-Momo/My-Wechat/blob/main/Wechat.jpg", "_blank");
-        },
-      },{
         id: 'social-instagram',
         title: 'Instagram',
         section: 'Socials',
