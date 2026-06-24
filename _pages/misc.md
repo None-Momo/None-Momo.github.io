@@ -28,6 +28,16 @@ nav_order: 4
 
     <li>
       <h3>
+        <a class="post-title" href="https://www.yumengma.com/#/notes/chi2026" target="_blank">Yumeng's Reflection of First CHI</a>
+        <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+          <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
+        </svg>
+      </h3>
+      <p>A PhD student's candid reflections on attending CHI for the very first time — navigating an unfamiliar academic world, forming unexpected connections, and discovering what it means to belong to the HCI research community.</p>
+    </li>
+
+    <li>
+      <h3>
         <a class="post-title" href="https://www.shengdongzhao.com/_book/dedication.html" target="_blank">Prof Shen's Memory of His PhD Advisor</a>
         <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
           <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
