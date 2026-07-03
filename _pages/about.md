@@ -29,7 +29,7 @@ latest_posts:
   }
 </style>
 
-I'm Xujia Liu, currently an undergraduate researcher at University of Washington. 
+I'm Xujia Liu, currently an undergraduate researcher at University of Washington.
 <br><br>
 My research interests lie in HCI, Accessibility, AI Agent.
 In summer 2026, I will research Interactive Systems for Human-Aligned AI Agents at the University of Notre Dame under [Toby Li](https://toby.li/)'s guidance.
