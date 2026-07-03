@@ -30,7 +30,29 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/misc/";
           },
-        },{id: "post-some-random-thoughts-at-cal-east-asian-library",
+        },{id: "post-foreword-to-the-book-another-new-culture-movement",
+        
+          title: "Foreword to the Book Another New Culture Movement",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/foreword-to-the-book-another-new-culture-movement/";
+          
+        },
+      },{id: "post-ecclesiastes-3",
+        
+          title: "Ecclesiastes 3",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/ecclesiastes-3/";
+          
+        },
+      },{id: "post-some-random-thoughts-at-cal-east-asian-library",
         
           title: 'Some Random Thoughts at Cal East Asian Library <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
