@@ -16,6 +16,39 @@ nav_order: 4
     margin-top: 3rem;
   }
 
+  .misc-tabs {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin: 2.5rem 0 0;
+    border-bottom: 1px solid #e5e5e5;
+  }
+
+  .misc-tab {
+    appearance: none;
+    border: 0;
+    border-bottom: 3px solid transparent;
+    background: transparent;
+    color: #333;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: 700;
+    padding: 0 0 0.75rem;
+  }
+
+  .misc-tab:hover,
+  .misc-tab.is-active {
+    color: var(--global-theme-color);
+  }
+
+  .misc-tab.is-active {
+    border-bottom-color: var(--global-theme-color);
+  }
+
+  .misc-panel[hidden] {
+    display: none;
+  }
+
   .misc-section-title {
     margin: 0 0 1.25rem;
     font-size: 2rem;
@@ -37,7 +70,12 @@ nav_order: 4
     <h2>A curated corner of words and small personal things</h2>
   </div>
 
-  <section class="misc-section">
+  <div class="misc-tabs" role="tablist" aria-label="Misc sections">
+    <button class="misc-tab is-active" type="button" role="tab" aria-selected="true" aria-controls="words-panel" id="words-tab" data-misc-tab="words-panel">Words That Shaped Me</button>
+    <button class="misc-tab" type="button" role="tab" aria-selected="false" aria-controls="personal-panel" id="personal-tab" data-misc-tab="personal-panel">Personal Odds and Ends</button>
+  </div>
+
+  <section class="misc-section misc-panel" id="words-panel" role="tabpanel" aria-labelledby="words-tab">
     <h2 class="misc-section-title">Words That Shaped Me</h2>
     <p class="misc-section-note">Pieces of writing that gave me language, courage, or a new way to look at research and life.</p>
     <p style="margin: 2rem auto 2.5rem; font-size: 1.25rem; font-weight: 700; color: #000; text-align: center">
@@ -100,10 +138,57 @@ nav_order: 4
 
   </section>
 
-  <section class="misc-section">
+  <section class="misc-section misc-panel" id="personal-panel" role="tabpanel" aria-labelledby="personal-tab" hidden>
     <h2 class="misc-section-title">Personal Odds and Ends</h2>
-    <!-- Personal hobby items will be added here. -->
+    <p class="misc-section-note">I love writing in Chinese, and I have left behind a few small pieces that still feel interesting to me.</p>
+
+    <ul class="post-list">
+
+      <li>
+        <h3>
+          <a class="post-title" href="{{ '/assets/pdfs/ecclesiastes-three.pdf' | relative_url }}" target="_blank">Ecclesiastes 3</a>
+          <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+            <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
+          </svg>
+        </h3>
+        <p>A Chinese reflection on Ecclesiastes 3, tracing seasons, time, and the quiet dignity of living within what we cannot fully control.</p>
+      </li>
+
+      <li>
+        <h3>
+          <a class="post-title" href="{{ '/assets/pdfs/preface-for-teacher-yuefeng.pdf' | relative_url }}" target="_blank">A Preface for Teacher Yuefeng</a>
+          <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+            <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
+          </svg>
+        </h3>
+        <p>A Chinese preface written for a teacher I deeply respect, carrying gratitude for mentorship and the intellectual warmth behind a book's beginning.</p>
+      </li>
+
+    </ul>
 
   </section>
 
 </div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const tabs = document.querySelectorAll("[data-misc-tab]");
+    const panels = document.querySelectorAll(".misc-panel");
+
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", () => {
+        const target = tab.dataset.miscTab;
+
+        tabs.forEach((item) => {
+          const isActive = item === tab;
+          item.classList.toggle("is-active", isActive);
+          item.setAttribute("aria-selected", String(isActive));
+        });
+
+        panels.forEach((panel) => {
+          panel.hidden = panel.id !== target;
+        });
+      });
+    });
+  });
+</script>
