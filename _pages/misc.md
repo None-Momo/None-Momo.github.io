@@ -146,7 +146,7 @@ nav_order: 4
 
       <li>
         <h3>
-          <a class="post-title" href="{{ '/assets/pdfs/ecclesiastes-three.pdf' | relative_url }}" target="_blank">Ecclesiastes 3</a>
+          <a class="post-title" href="{{ '/blog/2026/ecclesiastes-3/' | relative_url }}">Ecclesiastes 3</a>
           <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
             <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
@@ -156,12 +156,12 @@ nav_order: 4
 
       <li>
         <h3>
-          <a class="post-title" href="{{ '/assets/pdfs/preface-for-teacher-yuefeng.pdf' | relative_url }}" target="_blank">A Preface for Teacher Yuefeng</a>
+          <a class="post-title" href="{{ '/blog/2026/foreword-to-the-book-another-new-culture-movement/' | relative_url }}">Foreword to the Book Another New Culture Movement</a>
           <svg width="2rem" height="2rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
             <path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path>
           </svg>
         </h3>
-        <p>A Chinese preface written for a teacher I deeply respect, carrying gratitude for mentorship and the intellectual warmth behind a book's beginning.</p>
+        <p>让我感动的一段文字</p>
       </li>
 
     </ul>
