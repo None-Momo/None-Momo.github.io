@@ -118,6 +118,17 @@ ninja.data = [{
             window.open("https://www.notion.so/Masaki-Kuribayashi-Interview-2482211b1d408083aefac64b4bd4bcc7?source=copy_link", "_blank");
           
         },
+      },{id: "post-japan-momomery-about-foreigner",
+        
+          title: "Japan Momomery about Foreigner",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/japan-momomery-about-foreigner/";
+          
+        },
       },{id: "post-my-hci-summer-camp-application",
         
           title: "My HCI Summer Camp Application",
