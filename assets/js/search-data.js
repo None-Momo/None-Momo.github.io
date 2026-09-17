@@ -52,28 +52,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/why-we-study-fundamental-math-question-in-ai-era/";
           
         },
-      },{id: "post-2026-summer-research-application-notre-dame",
-        
-          title: "2026 Summer Research Application@Notre Dame",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/notre-dame-isure-application/";
-          
-        },
-      },{id: "post-seeking-accessibility-why-i-came-to-study-in-the-us",
-        
-          title: 'Seeking Accessibility: Why I Came to Study in the US <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "Reflections on why accessibility matters to me and why I chose to pursue my studies in the United States",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://www.notion.so/Why-I-Came-to-Study-in-the-US-2f52211b1d40800192aceb3bd0ad250a?source=copy_link", "_blank");
-          
-        },
       },{id: "post-why-accessibility-a-personal-reflection-chinese-version",
         
           title: 'Why Accessibility? A Personal Reflection (Chinese Version) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
@@ -107,31 +85,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/japan-momomery-about-foreigner/";
           
         },
-      },{id: "post-my-hci-summer-camp-application",
-        
-          title: "My HCI Summer Camp Application",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/my-hci-summer-camp-application/";
-          
-        },
-      },{id: "news-admitted-to-hci-program-heading-to-suzhou",
-          title: 'Admitted to HCI+ Program, heading to Suzhou',
-          description: "",
-          section: "News",},{id: "news-attended-chiang-mai-hci-research-camp-organized-by-prof-shengdong-zhao",
-          title: 'Attended Chiang Mai HCI Research Camp, organized by Prof: Shengdong Zhao',
-          description: "",
-          section: "News",},{id: "news-starting-exchange-life-at-uc-berkeley",
-          title: 'Starting Exchange Life at UC Berkeley',
-          description: "",
-          section: "News",},{id: "news-accepted-summer-research-offer-from-notre-dame-looking-forward-to-being-mentored-by-toby-li",
+      },{id: "news-accepted-summer-research-offer-from-notre-dame-looking-forward-to-being-mentored-by-toby-li",
           title: 'Accepted Summer Research offer from Notre Dame; looking forward to being mentored by...',
           description: "",
-          section: "News",},{id: "news-accepted-transfer-admission-to-uw-seattle-to-pursue-my-hci-aspirations",
-          title: 'Accepted transfer admission to UW–Seattle to pursue my HCI aspirations!',
+          section: "News",},{id: "news-joined-the-cmu-hcii-learn-lab-program-supported-by-student-funding",
+          title: 'Joined the CMU HCII Learn Lab Program, supported by Student Funding',
           description: "",
           section: "News",},{
         id: 'social-email',
