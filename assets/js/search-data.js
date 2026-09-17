@@ -56,7 +56,7 @@ ninja.data = [{
         
           title: 'Why Accessibility? A Personal Reflection (Chinese Version) <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
-        description: "Reflections from a Transfer Essay on the importance of accessibility",
+        description: "",
         section: "Posts",
         handler: () => {
           
@@ -72,17 +72,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://www.notion.so/Masaki-Kuribayashi-Interview-2482211b1d408083aefac64b4bd4bcc7?source=copy_link", "_blank");
-          
-        },
-      },{id: "post-japan-momomery-about-foreigner",
-        
-          title: "Japan Momomery about Foreigner",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/japan-momomery-about-foreigner/";
           
         },
       },{id: "news-accepted-summer-research-offer-from-notre-dame-looking-forward-to-being-mentored-by-toby-li",
