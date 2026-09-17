@@ -7,6 +7,7 @@ description: "Reflections on why accessibility matters to me and why I chose to 
 tags: accessibility
 categories: sample-posts
 redirect: https://www.notion.so/Why-I-Came-to-Study-in-the-US-2f52211b1d40800192aceb3bd0ad250a?source=copy_link
+published: false
 ---
 
 Reflections on why accessibility matters to me and why I chose to pursue my studies in the United States.

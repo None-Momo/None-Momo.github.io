@@ -31,15 +31,24 @@ latest_posts:
 
 I'm Xujia Liu, currently an undergraduate researcher at University of Washington.
 <br><br>
-My research interests lie in HCI, Accessibility, AI Agent.
-In summer 2026, I will research Interactive Systems for Human-Aligned AI Agents at the University of Notre Dame under [Toby Li](https://toby.li/)'s guidance.
-During the summer of 2025, I joined the HER Lab through the HCI+ program, supervised by Dr. [Yue Li](https://imyueli.github.io/), where I explored emotion detection in VR co-experiences using physiological signals.
+My recent interests lie in HCI, Accessibility, RLHF.
+In summer 2026, I did research Interactive Systems for Human-Aligned AI Agents at the University of Notre Dame under [Toby Li](https://toby.li/)'s guidance.
+Feel free to reach out!
 <br><br>
-I firmly believe that technology should always serve people.
-And my ultimate goal is to create an accessible world where everyone,
-regardless of their abilities, can equally benefit from technological innovations.
-<br>
+
+<p>
+<button class="btn btn-sm text-white" type="button" data-toggle="collapse" data-target="#previousVision" aria-expanded="false" aria-controls="previousVision" style="background-color: var(--global-theme-color); border-color: var(--global-theme-color);">
+My Previous Research Vision
+</button>
+</p>
+<div class="collapse" id="previousVision">
+<div class="card card-body" markdown="1">
+I firmly believe that technology should always serve people. And my ultimate goal is to create an accessible world where everyone, regardless of their abilities, can equally benefit from technological innovations.
+
 Even for individuals who are currently able-bodied, **there is no guarantee that they will never encounter challenges** similar to those faced by people who are Blind or Low Vision, Deaf or Hard of Hearing, or with Learning Disabilities. Recognizing this shared vulnerability is what makes accessibility research deeply meaningful.
+</div>
+</div>
+
 <br>
 If you'd like to get to know me better, feel free to take 3 minutes to read my [blog](/blog/)
 <br>
