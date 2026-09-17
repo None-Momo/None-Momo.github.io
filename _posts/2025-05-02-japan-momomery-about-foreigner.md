@@ -2,6 +2,7 @@
 layout: post
 title: Japan Momomery about Foreigner
 date: 2025-05-02
+published: false
 ---
 
 <iframe src="{{ '/assets/pdfs/japan-momomery-about-foreigner.pdf' | relative_url }}"
