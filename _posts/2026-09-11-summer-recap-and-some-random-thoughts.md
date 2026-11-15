@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Summer Recap and Some Random Thoughts
-title_size: 2.9rem
+_styles: >
+  .post-title { font-size: 2.9rem; }
 date: 2026-09-11 10:00:00
 description: Three months at Notre Dame, a short trip to CMU, and back to Seattle
 tags: reflection
