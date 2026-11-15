@@ -7,6 +7,11 @@ tags: reflection
 categories: sample-posts
 ---
 
+I picked [20 photos as a summary of this summer on Instagram](https://www.instagram.com/p/DdK2jpnm8Rn/). If you're interested, feel free to [follow me on Instagram](https://www.instagram.com/liuxujia85/)!
+{: .lead}
+
+---
+
 After leaving Berkeley, I spent the next three months at Notre Dame, with a short trip to CMU in between for an event hosted by HCII. And now, finally, I’m back in Seattle.
 
 So much has happened over these past three months. Everything and everyone I encountered this summer made me feel incredibly warm and supported.
@@ -24,7 +29,3 @@ And maybe there shouldn’t be one.
 > But those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.
 >
 > 但那等候耶和華的必重新得力。他們必如鷹展翅上騰；他們奔跑但不疲倦，行走卻不疲乏。
-
----
-
-I picked [20 photos as a summary of this summer on Instagram](https://www.instagram.com/p/DdK2jpnm8Rn/).
