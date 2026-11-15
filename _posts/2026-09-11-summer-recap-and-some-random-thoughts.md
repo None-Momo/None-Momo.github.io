@@ -7,8 +7,8 @@ tags: reflection
 categories: sample-posts
 ---
 
-I picked [20 photos as a summary of this summer on Instagram](https://www.instagram.com/p/DdK2jpnm8Rn/). If you're interested, feel free to [follow me on Instagram](https://www.instagram.com/liuxujia85/)!
-{: .lead}
+I picked [20 photos as a summary of this summer on Instagram](https://www.instagram.com/p/DdK2jpnm8Rn/).
+{: .lead style="font-size: 1.9rem;"}
 
 ---
 
