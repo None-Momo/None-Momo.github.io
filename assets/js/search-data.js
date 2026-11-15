@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/misc/";
           },
-        },{id: "post-some-random-thoughts-at-cal-east-asian-library",
+        },{id: "post-summer-recap-and-some-random-thoughts",
+        
+          title: "Summer Recap and Some Random Thoughts",
+        
+        description: "Three months at Notre Dame, a short trip to CMU, and back to Seattle",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/summer-recap-and-some-random-thoughts/";
+          
+        },
+      },{id: "post-some-random-thoughts-at-cal-east-asian-library",
         
           title: 'Some Random Thoughts at Cal East Asian Library <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -60,7 +71,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.open("https://www.xiaohongshu.com/explore/68d3b51b00000000120144f0?xsec_token=ABai1cH5NPNorvHJQqZFW6i96Aaxm6WkcD2nbpahBN7uU=&xsec_source=pc_user", "_blank");
+            window.open("https://app.notion.com/p/Accessibility-4192211b1d408052a853f4602403a1a6", "_blank");
           
         },
       },{id: "post-masaki-kuribayashi-39-s-interview-waseda-university",
